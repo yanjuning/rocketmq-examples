@@ -17,7 +17,7 @@
 	</modules>
 
 	<properties>
-		<spring.framework.version>5.1.8.RELEASE</spring.framework.version>
+		<spring.framework.version>5.2.3.RELEASE</spring.framework.version>
 		<rocketmq-version>4.5.1</rocketmq-version>
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
